@@ -1,0 +1,19 @@
+{
+  "name": "impetkov-site",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/impetkov/impetkov-site.git"
+  },
+  "author": "Ivan Petkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/impetkov/impetkov-site/issues"
+  },
+  "homepage": "https://github.com/impetkov/impetkov-site#readme"
+}
